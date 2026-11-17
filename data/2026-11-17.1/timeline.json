@@ -1,0 +1,106 @@
+[
+  {
+    "id": "tl-offence-date",
+    "date": "2023-02-21",
+    "dateKind": "event",
+    "title": "控罪所載的謀殺日期",
+    "summary": "這是控罪詳情裡的日期，不是本站認定的事實。",
+    "sourceIds": ["src-hk01-1009", "src-witness-d39"]
+  },
+  {
+    "id": "tl-burial-window",
+    "date": "2023-02-23",
+    "dateKind": "event",
+    "title": "阻止合法埋葬屍體控罪的末日",
+    "summary": "控罪詳情寫 2 月 21 日至 23 日。這裡只標該期間的結束日，避免把它寫成單一事件時刻。",
+    "sourceIds": ["src-hk01-1009", "src-witness-d39"]
+  },
+  {
+    "id": "tl-plea-snapshot",
+    "date": "2026-10-09",
+    "dateKind": "report",
+    "title": "報道當日：鄺球仍否認第二項控罪",
+    "summary": "香港01 稱審訊押後，並寫鄺港傑、鄺港智已承認阻止合法埋葬，鄺球否認。三人否認謀殺。",
+    "sourceIds": ["src-hk01-1009"]
+  },
+  {
+    "id": "tl-kau-plea",
+    "date": "2026-10-30",
+    "dateKind": "hearing",
+    "title": "鄺球改認阻止合法埋葬屍體罪",
+    "summary": "《The Standard》稱他當庭答 guilty。香港01 稱陪審團在法官指示下裁定他此罪罪成。謀殺罪仍是否認，沒有謀殺裁決。",
+    "sourceIds": ["src-hk01-1030", "src-standard-plea"]
+  },
+  {
+    "id": "tl-dna",
+    "date": "2026-11-03",
+    "dateKind": "hearing",
+    "title": "第 29 日：化驗師作供，報道涉及錘柄 DNA",
+    "summary": "專家證供的報道日。不是殺人裁決。",
+    "sourceIds": ["src-witness-d29", "src-hk01-dna"]
+  },
+  {
+    "id": "tl-d33",
+    "date": "2026-11-09",
+    "dateKind": "hearing",
+    "title": "第 33 日：鄺港傑開始主問",
+    "summary": "辯方案情下他首次出庭。盤問與覆問在已讀報道中未見。",
+    "sourceIds": ["src-witness-d33"]
+  },
+  {
+    "id": "tl-d34",
+    "date": "2026-11-10",
+    "dateKind": "hearing",
+    "title": "第 34 日：一名陪審員退出，主問繼續",
+    "summary": "法庭線與 The Standard 都報道陪審團由九人減至八人。",
+    "sourceIds": ["src-witness-d34-juror", "src-standard-juror"]
+  },
+  {
+    "id": "tl-d35",
+    "date": "2026-11-11",
+    "dateKind": "hearing",
+    "title": "第 35 日：主問中指稱胞弟",
+    "summary": "這是證人說法。當日已讀報道未見盤問或覆問。",
+    "sourceIds": ["src-witness-d35", "src-witness-d35-live"]
+  },
+  {
+    "id": "tl-d36",
+    "date": "2026-11-12",
+    "dateKind": "hearing",
+    "title": "第 36 日：主問涉及沒有報警、清潔與棄置手機",
+    "summary": "港台同日另有他關於帳篷與帆布的證供報道。",
+    "sourceIds": ["src-witness-d36", "src-rthk-1112"]
+  },
+  {
+    "id": "tl-d37",
+    "date": "2026-11-13",
+    "dateKind": "hearing",
+    "title": "第 37 日：同案被告代表律師盤問，呈上「傑之視角」",
+    "summary": "控方盤問尚未開始。覆問未見。",
+    "sourceIds": ["src-witness-d37-letter", "src-witness-d37-live"]
+  },
+  {
+    "id": "tl-d38",
+    "date": "2026-11-16",
+    "dateKind": "hearing",
+    "title": "第 38 日：控方開始盤問",
+    "summary": "包括帆布何時鋪上，以及他同意曾打算指控父親。覆問未見。",
+    "sourceIds": ["src-witness-d38", "src-rthk-1116"]
+  },
+  {
+    "id": "tl-d39",
+    "date": "2026-11-17",
+    "dateKind": "hearing",
+    "title": "第 39 日：鄺港傑的控方盤問與覆問在上午報道中結束",
+    "summary": "他被准許返回被告欄。鄺球選擇下午作供。截至當日 13:42 的核對，鄺球的證供還沒有完成報道。",
+    "sourceIds": ["src-witness-d39", "src-st-1117"]
+  },
+  {
+    "id": "tl-check",
+    "date": "2026-11-17",
+    "dateKind": "verification",
+    "title": "本版核對日",
+    "summary": "頁面是在這一日打開的。核對時間不是案中事件的發生時間，也不是報道的出版時間。",
+    "sourceIds": ["src-witness-d39"]
+  }
+]
