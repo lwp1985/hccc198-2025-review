@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ch-murder",
+    "name": "謀殺",
+    "particulars": "報道中的控罪詳情：2023 年 2 月 21 日，在大埔汀角路龍尾村 56B 地下，謀殺蔡天鳳。三名被告同被控。",
+    "pleaSummary": "香港01（2026-10-09 及 2026-10-30）、法庭線 2026 年 11 月的案件簡介，以及《The Standard》（2026-10-30、2026-11-10）都稱三人否認謀殺。",
+    "outcome": "未見謀殺罪裁決",
+    "outcomeKind": "unknown",
+    "defendantIds": ["p-d1", "p-d2", "p-d3"],
+    "sourceIds": ["src-hk01-1009", "src-hk01-1030", "src-standard-plea", "src-standard-juror", "src-witness-d39"]
+  },
+  {
+    "id": "ch-burial",
+    "name": "阻止合法埋葬屍體",
+    "particulars": "報道中的控罪詳情：2023 年 2 月 21 日至 23 日，在香港（法庭線簡介寫明大埔龍尾村 56B 地下）阻止蔡天鳳的屍體被合法埋葬。",
+    "pleaSummary": "鄺港傑、鄺港智在開審前已承認此罪（《The Standard》2026-10-30；香港01 2026-10-09 已如此記述）。鄺球在 2026-10-09 的報道中仍否認；2026-10-30 改認。香港01 同日報道，法官向陪審團透露他認罪，陪審團在法官指示下裁定他此罪罪成。",
+    "outcome": "此罪：報道有認罪，以及針對鄺球的指示裁決。不是謀殺裁決，本版也未見司法機構書面判案書。",
+    "outcomeKind": "reported-directed-verdict-on-this-count",
+    "defendantIds": ["p-d1", "p-d2", "p-d3"],
+    "sourceIds": ["src-hk01-1009", "src-hk01-1030", "src-standard-plea", "src-witness-d39"]
+  }
+]
