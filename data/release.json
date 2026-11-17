@@ -5,13 +5,13 @@
     "shortTitle": "HCCC 198/2025 公開審理資料註",
     "referenceDate": "2026-11-17",
     "timezone": "Asia/Hong_Kong",
-    "checkedAt": "2026-11-17T13:42:00+08:00",
-    "release": "2026-11-17.1",
+    "checkedAt": "2026-11-17T18:28:37+08:00",
+    "release": "2026-11-17.2",
     "dek": "把已核對的法庭報道分開標成報道事實、指控、分析同未知。謀殺罪未見裁決。這裡不是判案書，也不是謄本。",
     "presumption": "三名被告被控謀殺。在謀殺罪有經核對的裁決之前，他們就該罪維持無罪推定。承認或被裁定另一項罪名，不等於承認謀殺。",
-    "coverage": "這一版核對了案件編號、控罪與答辯的多篇報道，以及首被告鄺港傑在報道中的第 33 至 39 日。第 29 日只收了化驗師關於錘柄 DNA 的一段。其餘審日、其餘證人、法醫自己的作供，都標待補。",
+    "coverage": "2026-11-17.2 在上一版之上，補入同日下午鄺球主問的已核對節錄。主問未完，盤問和覆問未見開始。其餘審日、其餘證人和法醫原證供仍然待補。2026-11-17.1 的核對時間沒有改寫。",
     "notOfficial": "引述來自主流通訊社同法庭報道網站，經本站於參考日打開頁面核對。傳媒即時稿不是司法機構謄本。短句引語只為辨認版本，不是全文轉載。",
-    "statusNote": "鄺港傑在第 33 至 39 日的報道中作供。第 39 日上午，控方盤問同辯方覆問在報道中結束，他返回被告欄。鄺球的律師表示他選擇作供、希望午飯後開始。截至這次核對，沒有他的實質證供。",
+    "statusNote": "截至 2026-11-17T18:28:37+08:00 的再核對：鄺港傑上午的盤問和覆問在報道中結束。鄺球下午已開始接受戴偉奧主問，內容是節錄，不是全文。法庭線寫 16:21 休庭、周三續審。集誌社另寫辯方擬於翌日續問事發當日，這句只見該篇。盤問和覆問未見開始。謀殺罪仍未見裁決。",
     "representationNote": "英文報道稱審訊以英語進行。控方外聘資深大律師為郭莎樂（Charlotte Draycott）。鄺港傑由 Trevor Beel 代表，鄺球由戴偉奧（Oliver Davies）代表，鄺港智由安華暉（Andrew Raffell）代表。中文報道另列同庭律師，本版沒有逐一核對委任文件。"
   },
   "sources": [
@@ -248,6 +248,85 @@
       "checkedAt": "2026-11-17T13:42:00+08:00",
       "officialTranscript": false,
       "fetchNote": "標題用「料」。正文寫鄺港傑作供完畢、鄺球下午出庭作供。沒有鄺球證供內容。出版時間早於本站最後一次核對，不能當成下午已經作完。"
+    },
+    {
+      "id": "src-witness-d39-1828",
+      "publisher": "法庭線 The Witness",
+      "title": "持續更新｜蔡天鳳案Day39　鄺港傑：事發兩版本自己皆沒動手　鄺球將作供",
+      "url": "https://thewitnesshk.com/持續更新蔡天鳳案day39-控方列多個地點可停泊-質疑鄺/",
+      "httpStatus": 200,
+      "publishedAt": "2026-11-17T11:09:49+08:00",
+      "updatedAt": "2026-11-17T17:21:31+08:00",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "officialTranscript": false,
+      "fetchNote": "與 13:42 核對的是同一網址。這次 no-cache 取得的更新時間是 17:21:31，正文已有鄺球 13:33 起的主問，至 16:21 休庭、周三續審。頁面標題仍寫「鄺球將作供」，沒有改成已作供。HTTP Date 為 2026-11-17 10:28:37 GMT。"
+    },
+    {
+      "id": "src-rthk-1878104",
+      "publisher": "香港電台",
+      "title": "被問有無向父親詢問蔡天鳳是否已死亡　鄺港傑稱交由父親處理",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878104-20261117.htm",
+      "httpStatus": 200,
+      "publishedAt": "2026-11-17T12:12:00+08:00",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "officialTranscript": false,
+      "fetchNote": "這篇是鄺港傑上午盤問，不是鄺球下午開證。本版沒有用它改寫上午紀錄。"
+    },
+    {
+      "id": "src-rthk-1878114",
+      "publisher": "香港電台",
+      "title": "鄺港傑稱自己無謀殺去賺錢　質疑控方「很好想像力」",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878114-20261117.htm",
+      "httpStatus": 200,
+      "publishedAt": "2026-11-17T13:55:00+08:00",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "officialTranscript": false,
+      "fetchNote": "出版時寫下午預料由鄺球作供。這是預期，不是他已經作供的內容。購物解釋沒有放進這篇。"
+    },
+    {
+      "id": "src-rthk-1878131",
+      "publisher": "香港電台",
+      "title": "鄺球開始作供　稱曾向蔡天鳳提供3千萬元購置物業",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878131-20261117.htm",
+      "httpStatus": 200,
+      "publishedAt": "2026-11-17T15:32:00+08:00",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "officialTranscript": false,
+      "fetchNote": "頁面時間 2026-11-17 HKT 15:32。採用匯款、家用和授權書段落。沒有寫翌日續問何事。"
+    },
+    {
+      "id": "src-rthk-1878134",
+      "publisher": "香港電台",
+      "title": "鄺球供稱買湯煲當作花盆　購買砧板因肉檔砧板多細菌不想在外切肉",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878134-20261117.htm",
+      "httpStatus": 200,
+      "publishedAt": "2026-11-17T15:54:00+08:00",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "officialTranscript": false,
+      "fetchNote": "頁面時間 2026-11-17 HKT 15:54。有花盆、打邊爐和碎肉機與龍尾村無關。沒有紅磡、2 月 8 日、金屬盤或寶叔名字。"
+    },
+    {
+      "id": "src-st-3638106",
+      "publisher": "星島頭條",
+      "title": "蔡天鳳碎屍案｜鄺球指買大湯煲作花盆種冷籐植物　大炸篩打邊爐用",
+      "url": "https://www.stheadline.com/society/3638106/蔡天鳳碎屍案鄺球指買大湯煲作花盆種攀籐植物-大炸篩打邊爐用",
+      "httpStatus": 200,
+      "publishedAt": "2026-11-17T16:05:59+08:00",
+      "updatedAt": "2026-11-17T18:02:59+08:00",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "officialTranscript": false,
+      "fetchNote": "提示網址返回 200。頁面標題用「冷籐」，不是網址裡的「攀籐」。文章同時寫「保叔」和「寶叔」。含 2023-02-08、紅磡火車站和金屬托盤。"
+    },
+    {
+      "id": "src-collective-d39-kau",
+      "publisher": "集誌社",
+      "title": "蔡天鳳案．第39日｜鄺球指買大湯煲種「躝藤植物」　用11吋大炸籬「打邊爐」",
+      "url": "https://thecollectivehk.com/蔡天鳳案-第39日-鄺球作供/",
+      "httpStatus": 200,
+      "publishedAt": "2026-11-17T14:07:00+08:00",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "officialTranscript": false,
+      "fetchNote": "第一次打開為 200，頁面標 2026-11-17 2:07 pm。稍後再取返回 HTTP 520，因此採用第一次成功取得的正文。這篇寫辯方擬於翌日續問事發當日。沒有在這次讀到的正文寫明紅磡或 2 月 8 日。"
     }
   ],
   "persons": [
@@ -273,7 +352,7 @@
       "nameEn": "Kwong Kau",
       "role": "第二被告。報道稱他是死者前家翁、退休人士。",
       "accused": true,
-      "note": "年齡在不同報道中不一致，見未知紀錄。截至本版核對，只見到他選擇於 2026-11-17 下午作供，未見實質證供。"
+      "note": "年齡在不同報道中不一致。2026-11-17 下午他在主問中說現年 69 歲，這是證供報道，不是起訴書。同日下午主問已有節錄，但未完，盤問和覆問未見開始。"
     },
     {
       "id": "p-d3",
@@ -522,23 +601,23 @@
       "date": "2026-11-17",
       "trialDay": 39,
       "personId": "p-d2",
-      "testimonyState": "elected-not-started-in-checked-reports",
+      "testimonyState": "evidence-continuing-reported",
       "testimonyCompleted": false,
       "segments": [
         {
           "phase": "examination-in-chief",
-          "status": "scheduled-not-completed",
-          "note": "戴偉奧表示鄺球選擇作供，希望午飯後開始。星島標題用「料下午」。截至核對沒有實質證供。"
+          "status": "reported-partial",
+          "note": "戴偉奧主問已開始。已核對的範圍包括匯款、家用、授權書、龍尾和凱旋門的解釋、工具用途、絞肉機和兩張電話卡。不是全文。法庭線寫 16:21 休庭、周三續審。集誌社稱他擬於翌日續問事發當日；港台這兩篇沒有寫續問範圍。"
         },
         {
           "phase": "cross-examination",
-          "status": "scheduled-not-completed",
-          "note": "未見開始，不能標成已盤問。"
+          "status": "not-found-in-checked-reports",
+          "note": "已讀報道未見盤問開始。主問尚未結束，所以不能把盤問標成進行中或已完成。"
         },
         {
           "phase": "re-examination",
-          "status": "scheduled-not-completed",
-          "note": "未見開始，不能標成已覆問。"
+          "status": "not-found-in-checked-reports",
+          "note": "已讀報道未見覆問開始。"
         }
       ]
     },
@@ -707,6 +786,17 @@
       "summary": "頁面是在這一日打開的。核對時間不是案中事件的發生時間，也不是報道的出版時間。",
       "sourceIds": [
         "src-witness-d39"
+      ]
+    },
+    {
+      "id": "tl-d39-afternoon",
+      "date": "2026-11-17",
+      "dateKind": "hearing",
+      "title": "第 39 日下午：鄺球開始主問，休庭前未完",
+      "summary": "港台 15:32 報道他開始作供。法庭線記至 16:21 休庭、周三續審。盤問和覆問未見。",
+      "sourceIds": [
+        "src-rthk-1878131",
+        "src-witness-d39-1828"
       ]
     }
   ],
@@ -1295,13 +1385,17 @@
     {
       "id": "rec-d39-kau-election",
       "epistemic": "reported-fact",
-      "title": "鄺球選擇作供，下午時段截至核對仍未完成",
-      "summary": "法庭線 12:05 的段落寫，戴偉奧表示鄺球選擇出庭作供，希望午飯後開始。12:21 標為午膳。星島於 12:31 出版，標題用「料下午出庭作供」，正文寫鄺港傑作供完畢、鄺球下午出庭作供，沒有任何答問。本站在 13:42 再以這批頁面為準，沒有找到他已開始或已完成作供的內容。",
-      "limits": "選擇作供和預定開始，都不是證供。不得寫成他已經作供，也不得用空白填上推測的證供。下午稍後可能已有新報道；那不屬於這一次核對。",
-      "revision": 1,
+      "title": "鄺球先被報道為選擇作供，同日稍後主問已經開始",
+      "summary": "13:42 那次核對，只見到戴偉奧說他選擇作供、希望午飯後開始，星島 12:31 的報道沒有答問。18:28 再打開同一日較後的頁面：法庭線、港台、星島和集誌社都報道他已宣誓並接受主問。主問在休庭前沒有完成。盤問和覆問未見開始。",
+      "limits": "13:42 的「未見答問」仍然正確，但只覆蓋該次核對。它不能用來否定同日下午已經開始的主問。現有節錄不是全文，也不是裁決。",
+      "revision": 2,
       "sourceIds": [
         "src-witness-d39",
-        "src-st-1117"
+        "src-st-1117",
+        "src-witness-d39-1828",
+        "src-rthk-1878131",
+        "src-st-3638106",
+        "src-collective-d39-kau"
       ],
       "personIds": [
         "p-d2",
@@ -1315,8 +1409,9 @@
       "phase": null,
       "tags": [
         "鄺球",
-        "選擇作供",
-        "未完成"
+        "主問",
+        "未完成",
+        "修訂"
       ]
     },
     {
@@ -1690,6 +1785,382 @@
         "未找到",
         "兩年"
       ]
+    },
+    {
+      "id": "rec-d2-money",
+      "epistemic": "reported-fact",
+      "title": "他說 2014 至 2019 年曾匯約 3,000 萬元給蔡天鳳買樓",
+      "summary": "港台、法庭線和集誌社都報道，他在主問中說幼子與蔡天鳳 2014 年提議在香港置業，他主張一起儲錢。由儲錢至 2019 年買樓，他把內地生意的錢經廣州錢莊匯到香港找換店，再由蔡提取，總數約 3,000 萬元，買樓程序由蔡負責。加多利山單位登記在他名下。他說這是鄺港智和蔡商量的結果，因為蔡說自己在香港已持有物業，而他當時沒有。",
+      "limits": "這是被告本人的證供節錄，不是資金流的銀行紀錄，也不是裁決。3,000 萬是他口中的約數。沒有核對匯款文件。",
+      "revision": 1,
+      "sourceIds": [
+        "src-rthk-1878131",
+        "src-witness-d39-1828",
+        "src-collective-d39-kau"
+      ],
+      "personIds": [
+        "p-d2",
+        "p-choi",
+        "p-d3"
+      ],
+      "eventDate": null,
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "examination-in-chief",
+      "tags": [
+        "3000萬",
+        "匯款",
+        "加多利山"
+      ]
+    },
+    {
+      "id": "rec-d2-household",
+      "epistemic": "reported-fact",
+      "title": "他否認蔡天鳳每月給他家用",
+      "summary": "辯方引述蔡母較早證供，指蔡每月給鄺球家用。港台、法庭線和集誌社都報道他否認，並說「我畀錢佢就有」。這是他的說法，對上蔡母已被引述的說法。",
+      "limits": "本版沒有重開蔡母作供當日的原文。家用有沒有支付，不是這條紀錄能判定的事實。",
+      "revision": 1,
+      "sourceIds": [
+        "src-rthk-1878131",
+        "src-witness-d39-1828",
+        "src-collective-d39-kau"
+      ],
+      "personIds": [
+        "p-d2",
+        "p-choi"
+      ],
+      "eventDate": null,
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "examination-in-chief",
+      "tags": [
+        "家用",
+        "否認"
+      ]
+    },
+    {
+      "id": "rec-d2-authority",
+      "epistemic": "reported-fact",
+      "title": "他說先未簽授權書，其後在旺角簽署，並否認蔡母以法律程序施壓",
+      "summary": "他說同意蔡天鳳 2022 年為孫兒上學而出售加多利山。法庭線報道，他說授權書寫明出售所得交蔡處理。2022 年 8 至 9 月他到中環律師樓，律師說這類授權書多數用於老人癡呆或身有頑疾的人，又說他可以不簽，因為簽了之後樓款會全部給別人。他當時沒簽。其後在旺角律師樓簽了，並說當時不知道可以撤銷。蔡母稱曾致電說不簽就要提出法律程序。他說沒有這回事。他也說未曾為物業問題與蔡發生爭執。集誌社對律師說話的記述較短，沒有寫「老人癡呆」那句，但同樣寫他先不簽、後來簽，以及否認蔡母說「唔簽就法庭見」。",
+      "limits": "兩篇報道對律師原話的詳略不同。本版沒有授權書或律師檔案。否認法律施壓是他的證供，不是已經否定蔡母證供的裁決。發燒衝突被他形容為照顧孫兒的爭執，不是物業爭執。",
+      "revision": 1,
+      "sourceIds": [
+        "src-witness-d39-1828",
+        "src-rthk-1878131",
+        "src-collective-d39-kau"
+      ],
+      "personIds": [
+        "p-d2",
+        "p-choi"
+      ],
+      "eventDate": null,
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "examination-in-chief",
+      "tags": [
+        "授權書",
+        "物業",
+        "蔡母"
+      ]
+    },
+    {
+      "id": "rec-d2-tools",
+      "epistemic": "reported-fact",
+      "title": "他解釋大湯煲、炸籬、刀和砧板、面罩、雨具的用途",
+      "summary": "這是他在主問中的解釋，不是控方主張。大湯煲：用來做花盆種躝藤植物，兩個手挽可綁竹。星島標題寫「冷籐」，法庭線和集誌社寫「躝藤」。大炸籬或筲箕：打邊爐時盛牛肉。牛肉刀、菜刀和砧板：他說肉檔砧板細菌多，所以買回家自己切。面罩兩個：鋸竹時防碎屑，一個給自己，一個給他稱為阿權的裝修朋友。雨褸和水鞋兩套：業主說門口水坑大雨可能水浸，一套自用，另一套給來的家人。",
+      "limits": "植物名稱各篇用字不同，本站不改寫成同一品種。這些解釋沒有被裁定為真實用途。不列出尺寸以外的操作方法。",
+      "revision": 1,
+      "sourceIds": [
+        "src-witness-d39-1828",
+        "src-rthk-1878134",
+        "src-st-3638106",
+        "src-collective-d39-kau"
+      ],
+      "personIds": [
+        "p-d2"
+      ],
+      "eventDate": null,
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "examination-in-chief",
+      "tags": [
+        "花盆",
+        "打邊爐",
+        "面罩",
+        "雨褸"
+      ]
+    },
+    {
+      "id": "rec-d2-grinder",
+      "epistemic": "reported-fact",
+      "title": "他說絞肉機是代广州飲食界朋友購買，金屬托盤被留下",
+      "summary": "法庭線稱承認事實寫他 2023 年 2 月 8 日購買絞肉機。他說這部機與龍尾村絕對沒有關係，也沒有帶去村屋。購物前約一星期，廣州一位做飲食的朋友叫他在香港買外國牌子的碎肉機，因為內地產品不耐用。法庭線和集誌社寫這個朋友叫寶叔。星島同一篇同時寫「保叔」和「寶叔」。他說店員試機後要把金屬托盤放回盒裡，幾乎把盒子塞爛，於是托盤沒有入盒。當晚他到紅磡火車站，把絞肉機交給這位朋友的夥計帶回內地，其後沒有再見過機器。辯方指出警方在單位檢獲金屬托盤。星島和法庭線都有紅磡、2 月 8 日和托盤。港台 1878134 只寫代飲食業人士購買、與村屋無關，沒有紅磡、日期、名字或托盤。集誌社寫寶叔和即日交員工送回內地，以及托盤未入盒、其後在龍尾被檢獲。這次讀到的集誌社正文沒有寫紅磡或 2 月 8 日。",
+      "limits": "保叔和寶叔是否同一人，只見星島用了兩個寫法，沒有另一來源分辨。檢獲的是托盤，不是他說已經送走的機器。這仍是證供節錄，不是物證報告原文。",
+      "revision": 1,
+      "sourceIds": [
+        "src-witness-d39-1828",
+        "src-st-3638106",
+        "src-rthk-1878134",
+        "src-collective-d39-kau"
+      ],
+      "personIds": [
+        "p-d2"
+      ],
+      "eventDate": "2023-02-08",
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "examination-in-chief",
+      "tags": [
+        "絞肉機",
+        "紅磡",
+        "金屬托盤",
+        "寶叔"
+      ]
+    },
+    {
+      "id": "rec-d2-gateway",
+      "epistemic": "reported-fact",
+      "title": "他說租凱旋門是給女朋友住，住龍尾是為養生",
+      "summary": "法庭線、星島和集誌社報道，戴偉奧問他為何租凱旋門。他說打算給當時住在銅鑼灣的女朋友住，因為她住得悶。問為何不一起住龍尾，他說自己住龍尾是為養生，很多人不住得慣村屋，他沒有要求別人搬進去。這是他的解釋。",
+      "limits": "上午控方曾向鄺港傑指出凱旋門是為鄺港智潛逃而預備。那是另一個人被問到的主張，見分析。鄺球這段沒有承認潛逃用途。",
+      "revision": 1,
+      "sourceIds": [
+        "src-witness-d39-1828",
+        "src-st-3638106",
+        "src-collective-d39-kau"
+      ],
+      "personIds": [
+        "p-d2"
+      ],
+      "eventDate": null,
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "examination-in-chief",
+      "tags": [
+        "凱旋門",
+        "女朋友",
+        "養生"
+      ]
+    },
+    {
+      "id": "rec-d2-sims",
+      "epistemic": "reported-fact",
+      "title": "他說 2 月 21 日買了兩張電話卡，一張自用，一張給鄺港智",
+      "summary": "法庭線稱承認事實寫他在 2023 年 2 月 21 日購買兩張電話卡。他說一張自己用，一張給鄺港智。原因包括政府要求實名登記。他又說鄺港智當時用的卡是譚方駿給的，鄺港智覺得對方經常打電話講無聊事，所以想換卡，原來那張交還。星島和集誌社有相同要點。",
+      "limits": "承認事實是報道的稱呼，本站沒有那份書面文件。購買電話卡不是謀殺的證明。",
+      "revision": 1,
+      "sourceIds": [
+        "src-witness-d39-1828",
+        "src-st-3638106",
+        "src-collective-d39-kau"
+      ],
+      "personIds": [
+        "p-d2",
+        "p-d3"
+      ],
+      "eventDate": "2023-02-21",
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "examination-in-chief",
+      "tags": [
+        "電話卡",
+        "實名"
+      ]
+    },
+    {
+      "id": "rec-d2-adjourn",
+      "epistemic": "reported-fact",
+      "title": "主問未完。翌日續問事發當日，只見集誌社如此寫",
+      "summary": "法庭線在 16:21 標明休庭、周三續審，沒有在已讀段落寫明翌日第一件事就是事發當日。集誌社寫，戴偉奧表示擬就案發當日繼續主問，審訊明天續。港台 1878131 和 1878134 沒有寫續審範圍。",
+      "limits": "「明天續問事發當日」不能寫成三家報道的共同內容。周三是否實際繼續、問了甚麼，不屬於 2026-11-17 這次核對。",
+      "revision": 1,
+      "sourceIds": [
+        "src-witness-d39-1828",
+        "src-collective-d39-kau",
+        "src-rthk-1878131",
+        "src-rthk-1878134"
+      ],
+      "personIds": [
+        "p-d2"
+      ],
+      "eventDate": null,
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "examination-in-chief",
+      "tags": [
+        "休庭",
+        "集誌社",
+        "主問未完"
+      ]
+    },
+    {
+      "id": "rec-gateway-allegation",
+      "epistemic": "allegation",
+      "title": "控方曾向鄺港傑指出凱旋門是為潛逃而預備",
+      "summary": "法庭線上午的盤問報道寫，郭莎樂指鄺球預先為鄺港智準備凱旋門單位以便潛逃。鄺港傑說自己直到還押才知道這個單位，並否認為賺錢而謀殺。這是控方提問中的主張。",
+      "limits": "被問的人是鄺港傑，不是鄺球。主張未被裁決。下午鄺球另有女朋友居住的解釋。",
+      "revision": 1,
+      "sourceIds": [
+        "src-witness-d39",
+        "src-witness-d39-1828"
+      ],
+      "personIds": [
+        "p-d1",
+        "p-d2",
+        "p-d3"
+      ],
+      "eventDate": null,
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "cross-examination",
+      "tags": [
+        "凱旋門",
+        "潛逃",
+        "控方主張"
+      ]
+    },
+    {
+      "id": "an-tray",
+      "epistemic": "analysis",
+      "analysisLabel": "tension-with-independent-evidence",
+      "title": "與獨立證據的張力：他說絞肉機當日已送走，單位卻檢獲金屬托盤",
+      "summary": "辯方指出單位內有絞肉機的金屬托盤。他說機器当晚已在紅磡交給朋友的夥計帶回內地，其後沒有再見過機器。托盤沒有入盒，是因為店員試機後幾乎把盒子塞爛。機器不在場和托盤在場，可以同時符合他的解釋，但托盤留在單位是獨立於口頭解釋的檢取結果。",
+      "originalRecordIds": [
+        "rec-d2-grinder"
+      ],
+      "alternate": {
+        "status": "found",
+        "text": "另一邊是檢獲金屬托盤。已讀報道沒有說單位裡找到整部絞肉機。港台 1878134 沒有提到托盤。"
+      },
+      "explanation": {
+        "status": "found",
+        "text": "他的解釋是店員無法把托盤妥善放回盒內，所以托盤留在外面，機器則即日交給夥計帶走。星島和法庭線都有這個解釋。集誌社亦寫托盤未入盒，以及即日交員工送返內地。"
+      },
+      "limits": "本站沒有物證清單或照片。不能把托盤寫成他承認機器留在村屋，也不能把口頭解釋寫成已經推翻檢獲結果。",
+      "revision": 1,
+      "sourceIds": [
+        "src-witness-d39-1828",
+        "src-st-3638106",
+        "src-collective-d39-kau"
+      ],
+      "personIds": [
+        "p-d2"
+      ],
+      "eventDate": "2023-02-08",
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "examination-in-chief",
+      "tags": [
+        "托盤",
+        "絞肉機",
+        "張力"
+      ]
+    },
+    {
+      "id": "an-tools-kau",
+      "epistemic": "analysis",
+      "analysisLabel": "unproven-prosecution-proposition",
+      "title": "未經證明的控方主張：這些工具是為處理屍體而預先購買",
+      "summary": "控方在鄺港傑的盤問中把死亡前的購物說成預先準備。鄺球在自己的主問裡給了另一套用途：花盆、打邊爐、避免肉檔砧板、鋸竹的面罩、防雨水浸的雨具。兩套說法都還沒有裁決。",
+      "originalRecordIds": [
+        "rec-d2-tools",
+        "rec-d39-items"
+      ],
+      "alternate": {
+        "status": "found",
+        "text": "鄺港傑早前說購買時不知道會那樣用，並用「就地取材」形容。鄺球則把多件物品說成圍欄、飲食和防雨。兩人的解釋不完全相同，但都否定預先為屍體購買。"
+      },
+      "explanation": {
+        "status": "found",
+        "text": "鄺球的解釋見 rec-d2-tools。絞肉機他另外說與村屋絕對無關，見 rec-d2-grinder。"
+      },
+      "limits": "鄺港傑曾確認部分刀具、砧板和圓鋸後來被使用。事後使用不能自動證明購買時的意圖。本版不把用途說明寫成操作步驟。",
+      "revision": 1,
+      "sourceIds": [
+        "src-witness-d39-1828",
+        "src-rthk-1878134",
+        "src-st-3638106",
+        "src-witness-d39"
+      ],
+      "personIds": [
+        "p-d2",
+        "p-d1"
+      ],
+      "eventDate": null,
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "examination-in-chief",
+      "tags": [
+        "預謀",
+        "工具",
+        "控方主張"
+      ]
+    },
+    {
+      "id": "an-gateway",
+      "epistemic": "analysis",
+      "analysisLabel": "unproven-prosecution-proposition",
+      "title": "未經證明的控方主張：凱旋門是為潛逃而預備",
+      "summary": "控方向鄺港傑指出，凱旋門是預先給鄺港智潛逃用的。鄺港傑說自己還押後才知道該單位。鄺球則說租來給女朋友住。潛逃用途仍是未被裁決的主張。",
+      "originalRecordIds": [
+        "rec-gateway-allegation",
+        "rec-d2-gateway"
+      ],
+      "alternate": {
+        "status": "found",
+        "text": "鄺球的版本是女朋友當時住銅鑼灣，住得悶，所以打算搬到凱旋門。他說自己住龍尾是為養生，沒有要求別人同住村屋。"
+      },
+      "explanation": {
+        "status": "found",
+        "text": "見上。鄺港傑的解釋是他事先不知道這個單位，而不是他同意潛逃用途。"
+      },
+      "limits": "沒有租約或戶籍紀錄可核對誰入住。不能把任何一方的話寫成事實。",
+      "revision": 1,
+      "sourceIds": [
+        "src-witness-d39",
+        "src-witness-d39-1828",
+        "src-st-3638106",
+        "src-collective-d39-kau"
+      ],
+      "personIds": [
+        "p-d1",
+        "p-d2",
+        "p-d3"
+      ],
+      "eventDate": null,
+      "hearingDate": "2026-11-17",
+      "reportDate": "2026-11-17",
+      "verificationDate": "2026-11-17",
+      "checkedAt": "2026-11-17T18:28:37+08:00",
+      "phase": "examination-in-chief",
+      "tags": [
+        "凱旋門",
+        "潛逃",
+        "未證明"
+      ]
     }
   ],
   "gaps": [
@@ -1725,9 +2196,9 @@
     },
     {
       "id": "gap-d2-afternoon",
-      "scope": "2026-11-17 下午鄺球的作供",
-      "status": "未找到",
-      "note": "上午報道稱他選擇作供、希望午飯後開始。截至 2026-11-17 13:42（香港時間）的核對，未見已開始或已完成的實質作供報道。不得填成已作供。"
+      "scope": "2026-11-17 下午鄺球主問的全文，以及尚未開始的盤問和覆問",
+      "status": "待補",
+      "note": "下午主問已有多篇節錄，但不是謄本，也未見問到事發當日經過。盤問和覆問未見開始。集誌社稱翌日續問事發當日，這句沒有在港台或法庭線的已讀段落中找到相同表述。"
     },
     {
       "id": "gap-ages",
@@ -1742,5 +2213,19 @@
       "note": "即使某一階段標成「報道有節錄」，也只是已讀報道裡的要點，不是當日問答的全部。"
     }
   ],
-  "corrections": []
+  "corrections": [
+    {
+      "id": "cor-2026-11-17-2-kau-election",
+      "recordId": "rec-d39-kau-election",
+      "revisedAt": "2026-11-17T18:28:37+08:00",
+      "previousSummary": "法庭線 12:05 的段落寫，戴偉奧表示鄺球選擇出庭作供，希望午飯後開始。12:21 標為午膳。星島於 12:31 出版，標題用「料下午出庭作供」，正文寫鄺港傑作供完畢、鄺球下午出庭作供，沒有任何答問。本站在 13:42 再以這批頁面為準，沒有找到他已開始或已完成作供的內容。",
+      "reason": "同日 18:28 再核對。13:42 之後的報道顯示鄺球已經開始主問。舊摘要只保留為該次核對的範圍，不刪去。",
+      "sourceIds": [
+        "src-witness-d39-1828",
+        "src-rthk-1878131",
+        "src-st-3638106",
+        "src-collective-d39-kau"
+      ]
+    }
+  ]
 }
