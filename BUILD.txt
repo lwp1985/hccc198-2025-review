@@ -1,19 +1,19 @@
-release 2026-11-17.1
+release 2026-11-17.2
 files 24
 analysis.html
 assets/filter.js
 assets/site.css
 assets/site.js
 corrections.html
-data/2026-11-17.1/case.json
-data/2026-11-17.1/charges.json
-data/2026-11-17.1/corrections.json
-data/2026-11-17.1/gaps.json
-data/2026-11-17.1/hearings.json
-data/2026-11-17.1/persons.json
-data/2026-11-17.1/records.json
-data/2026-11-17.1/sources.json
-data/2026-11-17.1/timeline.json
+data/2026-11-17.2/case.json
+data/2026-11-17.2/charges.json
+data/2026-11-17.2/corrections.json
+data/2026-11-17.2/gaps.json
+data/2026-11-17.2/hearings.json
+data/2026-11-17.2/persons.json
+data/2026-11-17.2/records.json
+data/2026-11-17.2/sources.json
+data/2026-11-17.2/timeline.json
 data/content.schema.json
 data/release.json
 gaps.html
