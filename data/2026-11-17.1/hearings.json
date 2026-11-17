@@ -1,0 +1,119 @@
+[
+  {
+    "id": "h-d1-33",
+    "date": "2026-11-09",
+    "trialDay": 33,
+    "personId": "p-d1",
+    "testimonyState": "evidence-continuing-reported",
+    "testimonyCompleted": false,
+    "segments": [
+      {"phase": "examination-in-chief", "status": "reported-partial", "note": "辯方 Trevor Beel 開始主問。報道涵蓋背景，不是全文。當日未見盤問或覆問。"},
+      {"phase": "cross-examination", "status": "not-found-in-checked-reports", "note": "已讀的第 33 日報道沒有盤問。"},
+      {"phase": "re-examination", "status": "not-found-in-checked-reports", "note": "已讀的第 33 日報道沒有覆問。"}
+    ]
+  },
+  {
+    "id": "h-d1-34",
+    "date": "2026-11-10",
+    "trialDay": 34,
+    "personId": "p-d1",
+    "testimonyState": "evidence-continuing-reported",
+    "testimonyCompleted": false,
+    "segments": [
+      {"phase": "examination-in-chief", "status": "reported-partial", "note": "主問繼續，包括家庭關係。陪審員退出是程序，不是證供階段。"},
+      {"phase": "cross-examination", "status": "not-found-in-checked-reports", "note": "已讀的第 34 日報道沒有盤問。"},
+      {"phase": "re-examination", "status": "not-found-in-checked-reports", "note": "已讀的第 34 日報道沒有覆問。"}
+    ]
+  },
+  {
+    "id": "h-d1-35",
+    "date": "2026-11-11",
+    "trialDay": 35,
+    "personId": "p-d1",
+    "testimonyState": "evidence-continuing-reported",
+    "testimonyCompleted": false,
+    "segments": [
+      {"phase": "examination-in-chief", "status": "reported-partial", "note": "主問中他指稱胞弟殺人，並解釋購物。不是當日全部答問。"},
+      {"phase": "cross-examination", "status": "not-found-in-checked-reports", "note": "已讀的第 35 日報道沒有盤問。"},
+      {"phase": "re-examination", "status": "not-found-in-checked-reports", "note": "已讀的第 35 日報道沒有覆問。"}
+    ]
+  },
+  {
+    "id": "h-d1-36",
+    "date": "2026-11-12",
+    "trialDay": 36,
+    "personId": "p-d1",
+    "testimonyState": "evidence-continuing-reported",
+    "testimonyCompleted": false,
+    "segments": [
+      {"phase": "examination-in-chief", "status": "reported-partial", "note": "主問繼續，包括沒有報警、清潔車廂同棄置手機。"},
+      {"phase": "cross-examination", "status": "not-found-in-checked-reports", "note": "已讀的第 36 日報道沒有盤問。"},
+      {"phase": "re-examination", "status": "not-found-in-checked-reports", "note": "已讀的第 36 日報道沒有覆問。"}
+    ]
+  },
+  {
+    "id": "h-d1-37",
+    "date": "2026-11-13",
+    "trialDay": 37,
+    "personId": "p-d1",
+    "testimonyState": "evidence-continuing-reported",
+    "testimonyCompleted": false,
+    "segments": [
+      {"phase": "examination-in-chief", "status": "reported-partial", "note": "上午主問仍在繼續。報道有他稱留在廁所的段落；本版不轉述該段，只登記階段。"},
+      {"phase": "cross-examination", "status": "reported-partial", "note": "同日其後由鄺球及鄺港智的代表律師盤問，包括呈上信件。控方盤問尚未開始。"},
+      {"phase": "re-examination", "status": "not-found-in-checked-reports", "note": "已讀的第 37 日報道沒有覆問。"}
+    ]
+  },
+  {
+    "id": "h-d1-38",
+    "date": "2026-11-16",
+    "trialDay": 38,
+    "personId": "p-d1",
+    "testimonyState": "evidence-continuing-reported",
+    "testimonyCompleted": false,
+    "segments": [
+      {"phase": "examination-in-chief", "status": "not-this-day", "note": "當日報道由控方盤問開始，沒有新的主問。"},
+      {"phase": "cross-examination", "status": "reported-partial", "note": "郭莎樂開始控方盤問。節錄見帆布時間同夾口供。不是全文。"},
+      {"phase": "re-examination", "status": "not-found-in-checked-reports", "note": "已讀的第 38 日報道沒有覆問。"}
+    ]
+  },
+  {
+    "id": "h-d1-39",
+    "date": "2026-11-17",
+    "trialDay": 39,
+    "personId": "p-d1",
+    "testimonyState": "stood-down-reported",
+    "testimonyCompleted": false,
+    "segments": [
+      {"phase": "examination-in-chief", "status": "not-this-day", "note": "當日沒有新的主問。"},
+      {"phase": "cross-examination", "status": "reported-partial", "note": "控方盤問續至報道所稱「控方完成盤問」。本站沒有問答全文。"},
+      {"phase": "re-examination", "status": "reported-partial", "note": "Trevor Beel 覆問後，報道稱法官表示他可以返回座位。覆問有節錄，不是全文。離開證人席不等於本站已收齊證供。"}
+    ]
+  },
+  {
+    "id": "h-d2-39",
+    "date": "2026-11-17",
+    "trialDay": 39,
+    "personId": "p-d2",
+    "testimonyState": "elected-not-started-in-checked-reports",
+    "testimonyCompleted": false,
+    "segments": [
+      {"phase": "examination-in-chief", "status": "scheduled-not-completed", "note": "戴偉奧表示鄺球選擇作供，希望午飯後開始。星島標題用「料下午」。截至核對沒有實質證供。"},
+      {"phase": "cross-examination", "status": "scheduled-not-completed", "note": "未見開始，不能標成已盤問。"},
+      {"phase": "re-examination", "status": "scheduled-not-completed", "note": "未見開始，不能標成已覆問。"}
+    ]
+  },
+  {
+    "id": "h-wai-29",
+    "date": "2026-11-03",
+    "trialDay": 29,
+    "personId": "p-wai",
+    "testimonyState": "evidence-continuing-reported",
+    "testimonyCompleted": false,
+    "segments": [
+      {"phase": "examination-in-chief", "status": "reported-partial", "note": "只核對錘柄 DNA 的主問報道。不知當日是否只問了這些。"},
+      {"phase": "cross-examination", "status": "not-found-in-checked-reports", "note": "本版未讀當日盤問。"},
+      {"phase": "re-examination", "status": "not-found-in-checked-reports", "note": "本版未讀當日覆問。"}
+    ]
+  }
+]

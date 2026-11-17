@@ -1,0 +1,50 @@
+[
+  {
+    "id": "p-choi",
+    "nameZh": "蔡天鳳",
+    "nameEn": "Abby Choi",
+    "role": "控罪所述的死者",
+    "accused": false,
+    "note": "報道稱她於 2023 年 2 月死亡，終年 28 歲。本版不轉載遺骸狀況的圖像描述。"
+  },
+  {
+    "id": "p-d1",
+    "nameZh": "鄺港傑",
+    "nameEn": "Anthony Kwong Kong-kit；他自己在庭上說日常使用 Damon",
+    "role": "首被告。報道稱他是死者前大伯、司機。",
+    "accused": true,
+    "note": "2026-11-09 主問中，他說自己今年 35 歲。同一媒體的案件簡介仍印 31 歲。英文姓名拼寫來自《The Standard》，未經身份文件核對。"
+  },
+  {
+    "id": "p-d2",
+    "nameZh": "鄺球",
+    "nameEn": "Kwong Kau",
+    "role": "第二被告。報道稱他是死者前家翁、退休人士。",
+    "accused": true,
+    "note": "年齡在不同報道中不一致，見未知紀錄。截至本版核對，只見到他選擇於 2026-11-17 下午作供，未見實質證供。"
+  },
+  {
+    "id": "p-d3",
+    "nameZh": "鄺港智",
+    "nameEn": "Alex Kwong Kong-chi",
+    "role": "第三被告。報道稱他是死者前夫。",
+    "accused": true,
+    "note": "英文姓名拼寫來自《The Standard》。本版沒有收錄他本人的作供；2026-11-17 的報道沒有說他已經作供。"
+  },
+  {
+    "id": "p-judge",
+    "nameZh": "祁彥輝",
+    "nameEn": "Brian Keith",
+    "role": "暫委法官。不是被告。",
+    "accused": false,
+    "note": "中英文姓名見法庭線固定簡介及《The Standard》。本版未核對憲報委任文件。"
+  },
+  {
+    "id": "p-wai",
+    "nameZh": "衛永剛",
+    "nameEn": "",
+    "role": "政府化驗所總化驗師，控方專家證人。不是被告。",
+    "accused": false,
+    "note": "只收錄 2026-11-03 報道中他關於錘柄 DNA 的證供。盤問未核對。"
+  }
+]
