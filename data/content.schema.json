@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "hccc198-2025-public-notes",
+  "title": "HCCC 198/2025 public notes release",
+  "description": "Operational contract enforced by scripts/validate.mjs. This file is not fetched at runtime.",
+  "type": "object",
+  "required": ["case", "sources", "persons", "charges", "hearings", "timeline", "records", "gaps", "corrections"],
+  "additionalProperties": false,
+  "properties": {
+    "case": { "type": "object" },
+    "sources": { "type": "array", "minItems": 1 },
+    "persons": { "type": "array", "minItems": 1 },
+    "charges": { "type": "array", "minItems": 1 },
+    "hearings": { "type": "array" },
+    "timeline": { "type": "array" },
+    "records": { "type": "array", "minItems": 1 },
+    "gaps": { "type": "array" },
+    "corrections": { "type": "array" }
+  },
+  "$defs": {
+    "epistemic": {
+      "enum": ["reported-fact", "allegation", "analysis", "unknown"]
+    },
+    "analysisLabel": {
+      "enum": [
+        "direct-contradiction",
+        "tension-with-independent-evidence",
+        "behavioural-question",
+        "unproven-prosecution-proposition"
+      ]
+    },
+    "phase": {
+      "enum": ["examination-in-chief", "cross-examination", "re-examination"]
+    },
+    "segmentStatus": {
+      "enum": [
+        "reported-partial",
+        "not-found-in-checked-reports",
+        "scheduled-not-completed",
+        "not-this-day"
+      ]
+    },
+    "testimonyState": {
+      "enum": [
+        "stood-down-reported",
+        "evidence-continuing-reported",
+        "elected-not-started-in-checked-reports",
+        "not-researched"
+      ]
+    },
+    "linkStatus": {
+      "enum": ["found", "not-found"]
+    }
+  }
+}
