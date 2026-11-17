@@ -1,0 +1,26 @@
+release 2026-11-17.1
+files 24
+analysis.html
+assets/filter.js
+assets/site.css
+assets/site.js
+corrections.html
+data/2026-11-17.1/case.json
+data/2026-11-17.1/charges.json
+data/2026-11-17.1/corrections.json
+data/2026-11-17.1/gaps.json
+data/2026-11-17.1/hearings.json
+data/2026-11-17.1/persons.json
+data/2026-11-17.1/records.json
+data/2026-11-17.1/sources.json
+data/2026-11-17.1/timeline.json
+data/content.schema.json
+data/release.json
+gaps.html
+hearings.html
+index.html
+method.html
+people.html
+records.html
+sources.html
+timeline.html
